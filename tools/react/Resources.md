@@ -6,3 +6,5 @@
 
 ### Language features
 * [Curly braces verus parentheses](https://medium.com/@leannezhang/curly-braces-versus-parenthesis-in-reactjs-4d3ffd33128f)
+* [Props vs. State](https://lucybain.com/blog/2016/react-state-vs-pros/)
+* [props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
