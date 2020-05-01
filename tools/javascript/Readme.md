@@ -24,6 +24,6 @@ When you write a component like
 ```javascript
 const Link = ({ active, children, onClick }) => { ... }
 ```
-You are destructuring the props and getting only `active`, `children`, and `onClick` from the props passed to the component.
+You are [destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#Object_destructuring)  the props and getting only `active`, `children`, and `onClick` from the props passed to the component.
 
 
